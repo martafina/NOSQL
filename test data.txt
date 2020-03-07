@@ -1,0 +1,199 @@
+password=1
+use test
+
+db.users.insert({
+        "_id" : ObjectId("5e8c5001706e5b1a5c10665b"),
+        "Name" : "Marta",
+        "Surname" : "Fina",
+        "Mail" : "mart@mil.com",
+        "NickName" : "mafinka",
+        "Password" : "10713417811525552252225157107128782559063877117316423416247297319230822211831359175",
+        "Date" : "07.04.2020 13:21:45",
+        "Followers" : [
+                "oleska",
+                "madman",
+                "ivaa"
+        ],
+        "Following" : [
+                "madman"
+        ]
+})
+db.users.insert({
+        "_id" : ObjectId("5e8c5067706e5b19000a009a"),
+        "Name" : "Vlad",
+        "Surname" : "Dmytriv",
+        "Mail" : "dmytriv@mail.com",
+        "NickName" : "madman",
+        "Password" : "10713417811525552252225157107128782559063877117316423416247297319230822211831359175",
+        "Date" : "07.04.2020 13:23:37",
+        "Followers" : [
+                "mafinka",
+                "ivaa"
+        ],
+        "Following" : [
+                "oleska",
+                "ivaa"
+        ]
+})
+db.users.insert({
+        "_id" : ObjectId("5e8c508a706e5b42e8bd0de5"),
+        "Name" : "Nastia",
+        "Surname" : "Kushnir",
+        "Mail" : "linka@gmail.com",
+        "NickName" : "linka",
+        "Password" : "10713417811525552252225157107128782559063877117316423416247297319230822211831359175",
+        "Date" : "07.04.2020 13:22:39",
+        "Followers" : [
+                "oleska",
+                "madman",
+                "ivaa"
+        ],
+        "Following" : [
+                
+        ]
+})
+db.users.insert({
+        "_id" : ObjectId("5e8c50f3706e5b2be8e3639c"),
+        "Name" : "Olesia",
+        "Surname" : "Kushnir",
+        "Mail" : "oleska@mail.com",
+        "NickName" : "oleska",
+        "Password" : "10713417811525552252225157107128782559063877117316423416247297319230822211831359175",
+        "Date" : "07.04.2020 13:23:19",
+        "Following" : [
+                "mafinka",
+                "linka",
+                "madman"
+        ],
+        "Followers" : [
+                "linka"
+        ]
+})
+db.users.insert({
+        "_id" : ObjectId("5e8c50f3706e5b2be8e3639c4568"),
+        "Name" : "Iva",
+        "Surname" : "Qwerty",
+        "Mail" : "iva@mail.com",
+        "NickName" : "oleska",
+        "Password" : "qwerty",
+        "Date" : "07.04.2020 13:23:19",
+        "Following" : [
+                "mafinka",
+                "oleska",
+                "madman"
+        ],
+        "Followers" : [
+                "linka"
+
+        ]
+})
+
+___________________________________________________________________________________________________________________________--
+
+db.post.insert({
+        "_id" : ObjectId("5e8c5255706e5b0990d067f9"),
+        "PostOwnerId" : ObjectId("5e8c50f3706e5b2be8e3639c"),
+        "Text" : "hi you re so cool !!\r\n",
+        "Date" : "07.04.2020 13:13:41",
+        "Like" : 3,
+        "PersonsWhoLike" : [
+                 "mafinka",
+                "oleska",
+                "madman"
+        ],
+        "Comments" : [
+                {
+                        "CommentOwnerId" : ObjectId("5e8c5001706e5b1a5c10665b"),
+                        "Text" : "thanks))",
+                        "Date" : "07.04.2020 13:21:38"
+                }
+        ]
+})
+db.post.insert({
+        "_id" : ObjectId("5e8c5277706e5b0990d067fa"),
+        "PostOwnerId" : ObjectId("5e8c50f3706e5b2be8e3639c"),
+        "Text" : "SOS \r\nsomeone kidnapped my doll\r\ncall the police!!!",
+        "Date" : "07.04.2020 13:14:15",
+        "Like" : 0
+        
+})
+db.post.insert({
+        "_id" : ObjectId("5e8c52a2706e5b0990d067fb"),
+        "PostOwnerId" : ObjectId("5e8c50f3706e5b2be8e3639c"),
+        "Text" : "Help me with number methods",
+        "Date" : "07.04.2020 13:14:58",
+        "Like" : 0
+})
+db.post.insert({
+        "_id" : ObjectId("5e8c530b706e5b0468e6963d"),
+        "PostOwnerId" : ObjectId("5e8c5067706e5b19000a009a"),
+        "Text" : "eyy \r\nqarantine and read books\r\n",
+        "Date" : "07.04.2020 13:16:43",
+        "Like" : 3,
+        "PersonsWhoLike" : [
+                 "mafinka",
+                "oleska",
+                "madman"
+        ]
+})
+db.post.insert({
+        "_id" : ObjectId("5e8c5332706e5b0468e6963e"),
+        "PostOwnerId" : ObjectId("5e8c5067706e5b19000a009a"),
+        "Text" : "^-^",
+        "Date" : "07.04.2020 13:17:22",
+        "Like" : 3,
+        "PersonsWhoLike" : [
+                 "mafinka",
+                "oleska",
+                "madman"
+        ]
+        
+})
+db.post.insert({
+        "_id" : ObjectId("5e8c536a706e5b32185d311a"),
+        "PostOwnerId" : ObjectId("5e8c508a706e5b42e8bd0de5"),
+        "Text" : "it waas reallu snowy",
+        "Date" : "07.04.2020 13:18:18",
+        "Like" : 3,
+        "PersonsWhoLike" : [
+                 "mafinka",
+                "oleska",
+                "madman"
+        ]
+})
+db.post.insert({
+        "_id" : ObjectId("5e8c53aa706e5b22b0a2ce3e"),
+        "PostOwnerId" : ObjectId("5e8c5001706e5b1a5c10665b"),
+        "Text" : "ohh waiting for miracle",
+        "Date" : "07.04.2020 13:19:22",
+       "Like" : 3,
+        "PersonsWhoLike" : [
+                 "mafinka",
+                "oleska",
+                "madman"
+        ]
+})
+db.post.insert({
+        "_id" : ObjectId("5e8c53d8706e5b22b0a2ce3f"),
+        "PostOwnerId" : ObjectId("5e8c5001706e5b1a5c10665b"),
+        "Text" : "Want some MaiThai",
+        "Date" : "07.04.2020 13:20:08",
+        "Like" : 3,
+        "PersonsWhoLike" : [
+                 "mafinka",
+                "oleska",
+                "madman"
+        ]
+})
+db.post.insert({
+        "_id" : ObjectId("5e8c53e7706e5b22b0a2ce40"),
+        "PostOwnerId" : ObjectId("5e8c5001706e5b1a5c10665b"),
+        "Text" : "waiting for something neww",
+        "Date" : "07.04.2020 13:20:23",
+        "Like" : 3,
+        "PersonsWhoLike" : [
+                 "mafinka",
+                "oleska",
+                "madman"
+        ]
+})

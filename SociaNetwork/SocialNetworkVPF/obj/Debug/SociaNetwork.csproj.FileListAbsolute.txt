@@ -1,0 +1,680 @@
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\mongocrypt.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\SociaNetwork.exe.config
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\SociaNetwork.exe
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\SociaNetwork.pdb
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\netstandard.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.AppContext.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.Concurrent.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.NonGeneric.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.Specialized.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.Primitives.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Console.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Data.Common.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Contracts.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Debug.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Process.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Tools.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Tracing.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Drawing.Primitives.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Dynamic.Runtime.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Globalization.Calendars.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Globalization.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Globalization.Extensions.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.IO.Compression.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.IO.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.IO.IsolatedStorage.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.IO.Pipes.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.Expressions.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.Parallel.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.Queryable.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Http.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Net.NameResolution.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Net.NetworkInformation.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Ping.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Primitives.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Requests.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Security.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Sockets.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Net.WebSockets.Client.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Net.WebSockets.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.ObjectModel.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Reflection.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Reflection.Extensions.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Reflection.Primitives.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Resources.Reader.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Resources.ResourceManager.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Resources.Writer.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Extensions.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Handles.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.InteropServices.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Numerics.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Claims.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Principal.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Security.SecureString.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Text.Encoding.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Text.RegularExpressions.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Overlapped.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Tasks.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Thread.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.ThreadPool.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Timer.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.ValueTuple.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.ReaderWriter.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XDocument.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XmlDocument.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XmlSerializer.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XPath.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\Crc32C.NET.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\DnsClient.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignColors.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Bson.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.Core.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\SharpCompress.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\Snappy.NET.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Buffers.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\Crc32C.NET.xml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\DnsClient.xml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignColors.pdb
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Bson.xml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.xml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.Core.xml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\Snappy.NET.xml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\System.Buffers.xml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csprojAssemblyReference.cache
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.exe.config
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\MainWindow.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\App.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork_Content.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork_MarkupCompile.cache
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork_MarkupCompile.lref
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\App.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\MainWindow.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.g.resources
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.Properties.Resources.resources
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csproj.GenerateResource.cache
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csproj.CoreCompileInputs.cache
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csproj.CopyComplete
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.exe
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.pdb
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\LoginWindow.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\RegisterWindow.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\LoginWindow.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\RegisterWindow.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\DAL.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\DAL.pdb
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\DAL.dll.config
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\MessageWindow.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\MessageWindow.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\myProfile.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\myProfile.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucChangePassword.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucProfileEdit.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucChangePassword.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucProfileEdit.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\Newtonsoft.Json.dll
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\bin\Debug\Newtonsoft.Json.xml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SearchPeople\PersonInfo.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\SearchPeople\PersonInfo.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucNewPost.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucNewPost.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucFind.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucFind.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfPersonsWindow.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfPersonsWindow.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddPostWindow.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddPostWindow.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddCommentWindow.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddCommentWindow.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfCommentsWindow.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfCommentsWindow.baml
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\EditPostWindow.g.cs
+D:\University\6 семестр\Нереаліційні БД\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\EditPostWindow.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\mongocrypt.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\SociaNetwork.exe.config
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\SociaNetwork.exe
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\SociaNetwork.pdb
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\netstandard.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.AppContext.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Console.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Data.Common.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Globalization.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.IO.Compression.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.IO.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.IO.Pipes.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Http.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Ping.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Primitives.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Requests.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Security.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Sockets.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.ObjectModel.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Reflection.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Resources.Reader.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Resources.Writer.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Claims.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Principal.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Security.SecureString.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Text.Encoding.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Thread.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Timer.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.ValueTuple.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XPath.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\Crc32C.NET.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\DAL.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\DnsClient.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignColors.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Bson.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\SharpCompress.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\Snappy.NET.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Buffers.dll
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\DAL.pdb
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\DAL.dll.config
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\Crc32C.NET.xml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\DnsClient.xml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Bson.xml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.xml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\Snappy.NET.xml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\bin\Debug\System.Buffers.xml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csprojAssemblyReference.cache
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.exe.config
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddCommentWindow.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddPostWindow.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\EditPostWindow.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfCommentsWindow.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfPersonsWindow.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\LoginWindow.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\MainWindow.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\MessageWindow.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\RegisterWindow.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SearchPeople\PersonInfo.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\myProfile.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucChangePassword.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucFind.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucNewPost.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucProfileEdit.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\App.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork_Content.g.cs
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork_MarkupCompile.cache
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork_MarkupCompile.lref
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\App.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddCommentWindow.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddPostWindow.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\EditPostWindow.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfCommentsWindow.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfPersonsWindow.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\LoginWindow.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\MainWindow.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\MessageWindow.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\RegisterWindow.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SearchPeople\PersonInfo.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\myProfile.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucChangePassword.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucFind.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucNewPost.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucProfileEdit.baml
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.g.resources
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.Properties.Resources.resources
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csproj.GenerateResource.cache
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csproj.CopyComplete
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.exe
+C:\Users\Іван\Desktop\NoSql\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.pdb
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csprojAssemblyReference.cache
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.exe.config
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddCommentWindow.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddPostWindow.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\EditPostWindow.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfCommentsWindow.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfPersonsWindow.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\LoginWindow.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\MainWindow.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\MessageWindow.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\RegisterWindow.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SearchPeople\PersonInfo.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\myProfile.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucChangePassword.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucFind.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucNewPost.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucProfileEdit.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\App.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork_Content.g.cs
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork_MarkupCompile.cache
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork_MarkupCompile.lref
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.exe
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.pdb
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\mongocrypt.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\SociaNetwork.exe.config
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\SociaNetwork.exe
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\SociaNetwork.pdb
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\netstandard.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.AppContext.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.Concurrent.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.NonGeneric.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.Specialized.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.Primitives.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Console.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Data.Common.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Contracts.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Debug.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Process.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Tools.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Tracing.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Drawing.Primitives.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Dynamic.Runtime.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Globalization.Calendars.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Globalization.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Globalization.Extensions.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.Compression.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.IsolatedStorage.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.Pipes.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.Expressions.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.Parallel.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.Queryable.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Http.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.NameResolution.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.NetworkInformation.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Ping.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Primitives.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Requests.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Security.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Sockets.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.WebSockets.Client.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.WebSockets.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.ObjectModel.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Reflection.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Reflection.Extensions.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Reflection.Primitives.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Resources.Reader.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Resources.ResourceManager.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Resources.Writer.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Extensions.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Handles.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.InteropServices.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Numerics.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Claims.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Principal.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.SecureString.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Text.Encoding.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Text.RegularExpressions.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Overlapped.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Tasks.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Thread.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.ThreadPool.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Timer.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.ValueTuple.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.ReaderWriter.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XDocument.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XmlDocument.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XmlSerializer.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XPath.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Crc32C.NET.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\DAL.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\DnsClient.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignColors.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Bson.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.Core.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Newtonsoft.Json.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\SharpCompress.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Snappy.NET.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Buffers.dll
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\DAL.pdb
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\DAL.dll.config
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Crc32C.NET.xml
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\DnsClient.xml
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignColors.pdb
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Bson.xml
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.xml
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.Core.xml
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Newtonsoft.Json.xml
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Snappy.NET.xml
+C:\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Buffers.xml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\App.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddCommentWindow.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddPostWindow.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\EditPostWindow.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfCommentsWindow.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfPersonsWindow.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\LoginWindow.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\MainWindow.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\MessageWindow.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\RegisterWindow.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SearchPeople\PersonInfo.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\myProfile.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucChangePassword.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucFind.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucNewPost.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucProfileEdit.baml
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.g.resources
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.Properties.Resources.resources
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csproj.GenerateResource.cache
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csproj.CoreCompileInputs.cache
+C:\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csproj.CopyComplete
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\mongocrypt.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\SociaNetwork.exe.config
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\SociaNetwork.exe
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\SociaNetwork.pdb
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\netstandard.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.AppContext.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Console.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Data.Common.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Globalization.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.Compression.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.Pipes.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Http.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Ping.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Primitives.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Requests.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Security.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.Sockets.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.ObjectModel.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Reflection.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Resources.Reader.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Resources.Writer.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Claims.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.Principal.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Security.SecureString.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Text.Encoding.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Thread.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Threading.Timer.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XPath.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Crc32C.NET.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\DAL.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\DnsClient.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignColors.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Bson.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\SharpCompress.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Snappy.NET.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\DAL.pdb
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\DAL.dll.config
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Crc32C.NET.xml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\DnsClient.xml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Bson.xml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.xml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\Snappy.NET.xml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.exe.config
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddCommentWindow.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddPostWindow.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\EditPostWindow.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfCommentsWindow.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfPersonsWindow.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\LoginWindow.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\MessageWindow.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\RegisterWindow.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SearchPeople\PersonInfo.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\myProfile.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucChangePassword.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucFind.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucNewPost.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucProfileEdit.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\App.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork_Content.g.cs
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork_MarkupCompile.cache
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork_MarkupCompile.lref
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\App.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddCommentWindow.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\AddPostWindow.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\EditPostWindow.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfCommentsWindow.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\HelperWindows\ListOfPersonsWindow.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\LoginWindow.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\MainWindow.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\MessageWindow.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\RegisterWindow.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SearchPeople\PersonInfo.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\myProfile.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucChangePassword.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucFind.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucNewPost.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\ucWindows\ucProfileEdit.baml
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.g.resources
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.Properties.Resources.resources
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.csproj.CopyComplete
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.exe
+C:\Users\Admin\Documents\NOSQL\NOSQL\SociaNetwork\SociaNetwork\obj\Debug\SociaNetwork.pdb
